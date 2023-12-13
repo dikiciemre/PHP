@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+
+
+<!-- xml formatında veri seti oluşturmak istiyorsak kendimiz örnek TAG lar oluşturuyoruz -->
+<Kisiler>
+    <Kisi>
+        <isim>Emre</isim>
+        <soyisim>Dikici</soyisim>
+    <Kisi/>
+
+
+    <Kisi>
+        <isim>Buse</isim>
+        <soyisim>Dikici</soyisim>
+    <Kisi/>
+
+
+    <Kisi>
+        <isim>Mustafa</isim>
+        <soyisim>Dikici</soyisim>
+    <Kisi/>
+<Kisiler/>
